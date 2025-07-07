@@ -1,0 +1,59 @@
+                     Basic 
+1.Hello world
+2.Command-line argument
+3.system.gc() or Runtime.getRuntime.gc();
+4.Variables and rules 
+5.Datatypes and scanner class
+6.Type conversions
+7.Arithmmetic operators
+8.Relational operators
+9.Logical Operators
+10.Terinary operators
+11.packages
+                     Control statements
+12.conditional(if,if else, if else-if,switch) & new switch(string)
+13.loops(while,do while,for & enhanced for loop)
+14.Jump statements(break,continue,return)
+                     Class & Objects
+1.class & objects
+2.Access Modifer
+3.Methods
+4.Array(1D & 2D)
+5.Jagged and 3D Array
+6.Array of Objects
+7.Strings & methods  
+8.String Buffer and String Builder & Methods
+9.static variable,method & block
+                     OOPS
+1.Abstarction
+2.Encapsulation
+3.Inheritence(single,multilevel & multiple through interface)
+4.Polymorphism(Method overloading, Method overriding)
+5.this keyword
+6.super keyword
+7.Final keyword
+7.constructor(Default vs parameterized)(chk overload)
+8.Anonymous object
+9.Dynamic method dispatch
+10.object class equals toString hashcode
+11.upcasting/down casting
+12.Inner Class
+13.Anonymous Inner class
+14.Abstarct and Anonymous inner class
+15.Interface & types
+
+Wrapper classes
+Enum keyword
+Annotations
+                        Exception
+Exceptions(try catch, finally, throw, throws)& try and multiple catch, custom exception
+Thread(extends thread class & implements runnable interface)
+                         Collections
+list(ArrayList,Vetor & LinkedList)
+Queue(Priority Queue & Dequeue)
+Set(Hashset, Linked Hashset & Tree set
+                          Maps
+Map(Sorted Map,tree map)
+HashMap
+LinkedHashMap
+
