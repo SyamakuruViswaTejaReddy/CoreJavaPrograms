@@ -14,7 +14,8 @@
 12.conditional(if,if else, if else-if,switch) & new switch(string)
 13.loops(while,do while,for & enhanced for loop)
 14.Jump statements(break,continue,return)
-                     Class & Objects
+                    
+                      Class & Objects
 1.class & objects
 2.Access Modifer
 3.Methods
@@ -48,12 +49,13 @@ Annotations
                         Exception
 Exceptions(try catch, finally, throw, throws)& try and multiple catch, custom exception
 Thread(extends thread class & implements runnable interface)
-                         Collections
-list(ArrayList,Vetor & LinkedList)
+                 
+        Collections
+list(ArrayList, Vector & LinkedList)
 Queue(Priority Queue & Dequeue)
 Set(Hashset, Linked Hashset & Tree set
-                          Maps
+                        
+  Maps
 Map(Sorted Map,tree map)
 HashMap
 LinkedHashMap
-
